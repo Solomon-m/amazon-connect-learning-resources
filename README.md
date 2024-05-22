@@ -7,7 +7,7 @@ The following resources consist of free and paid resources.
 
 - [Connect Administrator Guide](https://docs.aws.amazon.com/connect/latest/adminguide/what-is-amazon-connect.html) 
 - [Connect API Reference](https://reactjs.org/](https://docs.aws.amazon.com/connect/latest/APIReference/Welcome.html)) 
-- [Whitepapers & Guides](https://reactjs.org/docs/context.html](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all&awsf.whitepapers-global-methodology=*all&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all&whitepapers-main.q=Amazon%2BConnect&whitepapers-main.q_operator=AND))
+- [Whitepapers & Guides](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all&awsf.whitepapers-global-methodology=*all&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all&whitepapers-main.q=Amazon%2BConnect&whitepapers-main.q_operator=AND)
 - [Connect AWS SDK JS V3](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/client/connect/)
 - [Connect NPM](https://www.npmjs.com/package/@aws-sdk/client-connect)
 - [AmazonConnect Github](https://github.com/amazon-connect)
