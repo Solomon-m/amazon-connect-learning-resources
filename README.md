@@ -46,7 +46,6 @@ The following resources consist of free and paid resources.
 - [Amazon Connect Tasks](https://catalog.us-east-1.prod.workshops.aws/workshops/ce07a3c0-69f7-44a0-9556-9d49032f90b1)
 - [Amazon Connect Voice ID](https://catalog.us-east-1.prod.workshops.aws/workshops/ed3fc8e1-cb23-4bce-b2f3-a2bfeaa3aa7d)
 - [Amazon Connect Profiles](https://catalog.us-east-1.prod.workshops.aws/workshops/377bafee-4f96-4d5f-b8cc-ef24e8d080e0)
-- [Amazon Connect APIs](https://catalog.us-east-1.prod.workshops.aws/workshops/e507e74d-d816-4808-94c5-58abc598c40b/en-US)
 - [Amazon Connect Softphone Controls](https://catalog.us-east-1.prod.workshops.aws/workshops/e507e74d-d816-4808-94c5-58abc598c40b/en-US)
 - [Amazon Connect SSO](https://catalog.us-east-1.prod.workshops.aws/workshops/33e6d0e7-f927-4531-abb1-f28a86ba0872/en-US)
 - [Contact Lens for Amazon Connect](https://catalog.us-east-1.prod.workshops.aws/workshops/0d424f45-a4df-4818-ab35-5cf4fad6a66a/en-US)
