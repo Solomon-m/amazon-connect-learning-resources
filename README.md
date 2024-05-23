@@ -54,7 +54,22 @@ The following resources consist of free and paid resources.
 - [Visualize Amazon Connect Contact Trace Records using Amazon QuickSight](https://catalog.us-east-1.prod.workshops.aws/workshops/607718a8-cddd-416a-97b4-4fc9dc93ff7a/en-US/)
 
 **Youtube Videos**
-- Todo...
+
+- [What is Amazon Connect](https://www.youtube.com/watch?v=syF1CEiWAto)
+- [Getting Started with Amazon Connect](https://www.youtube.com/watch?v=ELlAUSKJXpA&t=1s)
+- [Amazon Connect Enablement](https://www.youtube.com/watch?v=WH0__hiP-wM&list=PLhr1KZpdzukdtol4mjtv3JRSgOCJFWhO4)
+- [Generative AI for Customer Service with Amazon Connect](https://www.youtube.com/watch?v=rKp_byg5OzU)
+- [Amazon Connect Tutorials playlist](https://www.youtube.com/watch?v=kf8i3kTKq0M&list=PL4SEtvjUqihF_n-OjIsHwqqayTsAToBOx) 
+- [Amazon Connect videos by Rajiv Coomar](https://www.youtube.com/watch?v=v2XmilafR9k&list=PLMcMSFfe-ZLiXJHecU0KKCVqEYwkOp3Xl)
+- [AWS Connect Contact Center playlist by DrVoIp](https://www.youtube.com/watch?v=W3aRIxly1ME&list=PLxHdDBntokmIM2AdwbxBOjCOLlk0ZPtzi&index=1)
+- [AWS Cloud Contact Center Introduction and Demo](https://www.youtube.com/watch?v=yKNb6db_d7c)
+- [AWS re:Invent 2022 - What’s new in contact centers with Amazon Connect](https://www.youtube.com/watch?v=yMuH5GdL1l8)
+- [Get Started in Minutes with Amazon Connect in Your Contact Center](https://www.youtube.com/watch?v=yGJdYbwb8j0)
+- [VoiceBootcamp - Amazon AWS Connect - How to Build Cloud Call Center](https://www.youtube.com/watch?v=kzgRxWGWcgc)
+- [Agent Training for the Amazon Connect Contact Control Panel (CCP)](https://www.youtube.com/watch?v=BVa6QZyAVsA)
+- [AWS Summit ANZ 2023: Super-powered customer experience using Amazon Connect](https://www.youtube.com/watch?v=WKN6eqlAVJc)
+- [AWS Paris Summit 2023 | AWS On Air ft. Step-by-step guides for Amazon Connect agent workspace](https://www.youtube.com/watch?v=w3iC1cxouQs)
+- [Invoke Lambda Function from Amazon Connect by Passing Parameters](https://www.youtube.com/watch?v=3geZ2IyeySg)
   
 **Articles**
 - Todo...
