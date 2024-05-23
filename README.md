@@ -1,4 +1,3 @@
-![alt text](https://github.com/Solomon-m/amazon-connect-learning-resources/blob/main/AmazonConnectBanner.jpeg)
 # Amazon Connect Learning Resources
 A curated list of resources to learn Amazon Connect and build a cloud contact center application with Amazon Connect.
 The following resources consist of free and paid resources. 
