@@ -68,7 +68,7 @@ The following resources consist of free and paid resources.
 - [VoiceBootcamp - Amazon AWS Connect - How to Build Cloud Call Center](https://www.youtube.com/watch?v=kzgRxWGWcgc)
 - [Agent Training for the Amazon Connect Contact Control Panel (CCP)](https://www.youtube.com/watch?v=BVa6QZyAVsA)
 - [AWS Summit ANZ 2023: Super-powered customer experience using Amazon Connect](https://www.youtube.com/watch?v=WKN6eqlAVJc)
-- [AWS Paris Summit 2023 | AWS On Air ft. Step-by-step guides for Amazon Connect agent workspace](https://www.youtube.com/watch?v=w3iC1cxouQs)
+- [AWS On Air ft Step-by-step guides for Amazon Connect agent workspace](https://www.youtube.com/watch?v=w3iC1cxouQs)
 - [Invoke Lambda Function from Amazon Connect by Passing Parameters](https://www.youtube.com/watch?v=3geZ2IyeySg)
   
 **Articles**
