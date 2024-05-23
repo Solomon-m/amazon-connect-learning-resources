@@ -19,8 +19,11 @@ The following resources consist of free and paid resources.
 
 - [Amazon Connect Complete Training Course](https://www.udemy.com/share/106Itu3@iM7RpKFobuYW6-eDLfOgf-Ai5sHPtVVzQY5_62TbH8VKXPhyxl6J9iCus4bGzYw=/) by Arun Nair.
 
-**Amazon blog on AmazonConnect**
+**Amazon Blog on AmazonConnect**
 - [AmazonConnect Official Blog](https://aws.amazon.com/blogs/training-and-certification/category/messaging/amazon-connect/)
+- [AmazonConnect What's New Feed](https://aws.amazon.com/new/?whats-new-content-all.sort-by=item.additionalFields.postDateTime&whats-new-content-all.sort-order=desc&awsf.whats-new-categories=marketing-marchitecture%23business-productivity&whats-new-content-all.q=amazon%2BConnect&whats-new-content-all.q_operator=AND)
+- [AmazonConnect Release Notes](https://docs.aws.amazon.com/connect/latest/adminguide/amazon-connect-release-notes.html)
+- [Contact Center Blog](https://aws.amazon.com/blogs/contact-center/)
 
 **AWS Skil Builder**
 - [Amazon Connect Learning Path](https://explore.skillbuilder.aws/learn/lp/1721/amazon-connect-learning-plan)
@@ -62,7 +65,7 @@ The following resources consist of free and paid resources.
 - [Amazon Connect videos by Rajiv Coomar](https://www.youtube.com/watch?v=v2XmilafR9k&list=PLMcMSFfe-ZLiXJHecU0KKCVqEYwkOp3Xl)
 - [AWS Connect Contact Center playlist by DrVoIp](https://www.youtube.com/watch?v=W3aRIxly1ME&list=PLxHdDBntokmIM2AdwbxBOjCOLlk0ZPtzi&index=1)
 - [AWS Cloud Contact Center Introduction and Demo](https://www.youtube.com/watch?v=yKNb6db_d7c)
-- [AWS re:Invent 2022 - What’s new in contact centers with Amazon Connect](https://www.youtube.com/watch?v=yMuH5GdL1l8)
+- [AWS reInvent 2022 - What’s new in contact centers with Amazon Connect](https://www.youtube.com/watch?v=yMuH5GdL1l8)
 - [Get Started in Minutes with Amazon Connect in Your Contact Center](https://www.youtube.com/watch?v=yGJdYbwb8j0)
 - [VoiceBootcamp - Amazon AWS Connect - How to Build Cloud Call Center](https://www.youtube.com/watch?v=kzgRxWGWcgc)
 - [Agent Training for the Amazon Connect Contact Control Panel (CCP)](https://www.youtube.com/watch?v=BVa6QZyAVsA)
@@ -71,7 +74,8 @@ The following resources consist of free and paid resources.
 - [Invoke Lambda Function from Amazon Connect by Passing Parameters](https://www.youtube.com/watch?v=3geZ2IyeySg)
   
 **Articles**
-- Todo...
+- [Perficient Blog](https://blogs.perficient.com/tag/amazon-connect/)
+- [AmazonConnect reCap 2023 by Ankur Taunk](https://www.linkedin.com/pulse/recap-amazon-connect-2023-whats-new-ankur-taunk-yzd3c/)
   
 **Others AWS Services**
-- Todo...
+- Adding soon ... 
