@@ -1,5 +1,5 @@
-
-# amazon-connect-learning-resources
+![alt text](https://github.com/Solomon-m/amazon-connect-learning-resources/blob/main/AmazonConnectBanner.jpeg)
+# Amazon Connect Learning Resources
 A curated list of resources to learn Amazon Connect and build a cloud contact center application with Amazon Connect.
 The following resources consist of free and paid resources. 
 
@@ -77,5 +77,3 @@ The following resources consist of free and paid resources.
 - [Perficient Blog](https://blogs.perficient.com/tag/amazon-connect/)
 - [AmazonConnect reCap 2023 by Ankur Taunk](https://www.linkedin.com/pulse/recap-amazon-connect-2023-whats-new-ankur-taunk-yzd3c/)
   
-**Others AWS Services**
-- Adding soon ... 
