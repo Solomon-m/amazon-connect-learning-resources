@@ -54,6 +54,7 @@ The following resources consist of free and paid resources.
 - [Amazon Connect and Amazon Lex Integration](https://catalog.us-east-1.prod.workshops.aws/workshops/638d00f5-2248-488f-b7ca-903e8b966bf8/en-US)
 - [Visualize Amazon Connect Contact Trace Records using Amazon QuickSight](https://catalog.us-east-1.prod.workshops.aws/workshops/607718a8-cddd-416a-97b4-4fc9dc93ff7a/en-US/)
 - [QuickSight Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/cd8ebba2-2ef8-431a-8f72-ca7f6761713d/en-US)
+- [Amazon Connect Operational Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/4c47aab3-601b-4ac9-be0f-a829f0bf3723/en-US)
 
 **Youtube Videos**
 
