@@ -15,8 +15,9 @@ The following resources consist of free and paid resources.
 - [Amazon-Connect-TaskJS](https://github.com/amazon-connect/amazon-connect-taskjs) for integrating Task channel in custom CCP apps.
 
 **Courses from Udemy**
-
-- [Amazon Connect Complete Training Course](https://www.udemy.com/share/106Itu3@iM7RpKFobuYW6-eDLfOgf-Ai5sHPtVVzQY5_62TbH8VKXPhyxl6J9iCus4bGzYw=/) by Arun Nair.
+- [Amazon Connect Complete Training Course](https://www.udemy.com/share/106Itu3@iM7RpKFobuYW6-eDLfOgf-Ai5sHPtVVzQY5_62TbH8VKXPhyxl6J9iCus4bGzYw=/) - Amazon Connect - by Arun Nair.
+- [Building Voice apps using Amazon Alexa](https://www.udemy.com/course/building-voice-apps-using-amazon-alexa) - Amazon Lex
+- [Building Chatbots with Amazon Lex and IBM Watson](https://www.udemy.com/course/building-chatbots-with-amazon-lex-and-ibm-watson) - Amazon Lex and IBM Watson
 
 **Amazon Blog on AmazonConnect**
 - [AmazonConnect Official Blog](https://aws.amazon.com/blogs/training-and-certification/category/messaging/amazon-connect/)
