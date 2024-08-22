@@ -27,6 +27,8 @@ The following resources consist of free and paid resources.
 **AWS Skil Builder**
 - [Amazon Connect Learning Path](https://explore.skillbuilder.aws/learn/lp/1721/amazon-connect-learning-plan)
 - [Amazon Connect RampUp Guide](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Amazon_Connect.pdf)
+- [Amazon Connect Communications Specialist Learning & Badge Plan](https://explore.skillbuilder.aws/learn/public/learning_plan/view/2262/amazon-connect-communications-specialist-learning-badge-plan)
+- [Amazon Connect Developer Learning plan](https://explore.skillbuilder.aws/learn/public/learning_plan/view/2318/amazon-connect-developer-learning-plan)
 
 **AWS Workshops**
 
@@ -55,6 +57,7 @@ The following resources consist of free and paid resources.
 - [Visualize Amazon Connect Contact Trace Records using Amazon QuickSight](https://catalog.us-east-1.prod.workshops.aws/workshops/607718a8-cddd-416a-97b4-4fc9dc93ff7a/en-US/)
 - [QuickSight Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/cd8ebba2-2ef8-431a-8f72-ca7f6761713d/en-US)
 - [Amazon Connect Operational Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/4c47aab3-601b-4ac9-be0f-a829f0bf3723/en-US)
+- [The Complete AWS SAM Workshop](https://catalog.workshops.aws/complete-aws-sam/en-US/module-0-getting-started)
 
 **Youtube Videos**
 
