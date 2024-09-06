@@ -60,6 +60,11 @@ The following resources consist of free and paid resources.
 - [Amazon Connect Operational Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/4c47aab3-601b-4ac9-be0f-a829f0bf3723/en-US)
 - [The Complete AWS SAM Workshop](https://catalog.workshops.aws/complete-aws-sam/en-US/module-0-getting-started)
 
+**Amazon Lex Workshops**
+- [Amazon Lex Workshops](https://catalog.us-east-1.prod.workshops.aws/workshops/94f60d43-15b7-45f4-bbbc-17889ae64ea0/en-US)
+- [Amazon Connect and Amazon Lex Integration](https://catalog.us-east-1.prod.workshops.aws/workshops/638d00f5-2248-488f-b7ca-903e8b966bf8/en-US)
+- [QnABot Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/20c56f9e-9c0a-4174-a661-9f40d9f063ac/en-US)
+
 **Youtube Videos**
 
 - [What is Amazon Connect](https://www.youtube.com/watch?v=syF1CEiWAto)
