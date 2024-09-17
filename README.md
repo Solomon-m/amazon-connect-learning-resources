@@ -29,7 +29,7 @@ The following resources consist of free and paid resources.
 - [Amazon Connect Learning Path](https://explore.skillbuilder.aws/learn/lp/1721/amazon-connect-learning-plan)
 - [Amazon Connect RampUp Guide](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Amazon_Connect.pdf)
 - [Amazon Connect Communications Specialist Learning & Badge Plan](https://explore.skillbuilder.aws/learn/public/learning_plan/view/2262/amazon-connect-communications-specialist-learning-badge-plan) - ⭐🎖️
-- [Amazon Connect Developer Learning plan](https://explore.skillbuilder.aws/learn/public/learning_plan/view/2318/amazon-connect-developer-learning-plan)
+- [Amazon Connect Developer Learning & Badge Plan](https://explore.skillbuilder.aws/learn/public/learning_plan/view/2318/amazon-connect-developer-learning-plan) - ⭐🎖️
 
 **AWS Workshops**
 
