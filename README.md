@@ -35,7 +35,7 @@ The following resources consist of free and paid resources.
 **AWS Workshops**
 
 - [Getting started with Amazon Connect](https://catalog.us-east-1.prod.workshops.aws/workshops/d1f03aa4-9605-4925-aa18-e82819feb069/en-US)
-- [Amazon Connect Bootcamp](https://catalog.us-east-1.prod.workshops.aws/workshops/cf45bce8-f0a0-4c0d-83e6-ae510931c091/en-US)
+- [Amazon Connect Bootcamp](https://catalog.us-east-1.prod.workshops.aws/workshops/cf45bce8-f0a0-4c0d-83e6-ae510931c091/en-US) ⭐
 - [Introduction to Amazon Connect](https://catalog.workshops.aws/amazon-connect-introduction)
 - [Agent Empowerment Suite on Amazon Connect](https://catalog.workshops.aws/amazon-connect-agent-empowerment/en-US)
 - [Amazon Connect forecasting, capacity planning and scheduling](https://catalog.workshops.aws/amazon-connect-optimization)
