@@ -60,6 +60,7 @@ The following resources consist of free and paid resources.
 - [QuickSight Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/cd8ebba2-2ef8-431a-8f72-ca7f6761713d/en-US)
 - [Amazon Connect Operational Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/4c47aab3-601b-4ac9-be0f-a829f0bf3723/en-US)
 - [The Complete AWS SAM Workshop](https://catalog.workshops.aws/complete-aws-sam/en-US/module-0-getting-started)
+- [Amazon Connect Rules Engine - Workshop](https://catalog.workshops.aws/amazon-connect-rules-engine/en-US)
 
 **Amazon Lex Workshops**
 - [Amazon Lex Workshops](https://catalog.us-east-1.prod.workshops.aws/workshops/94f60d43-15b7-45f4-bbbc-17889ae64ea0/en-US)
