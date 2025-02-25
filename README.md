@@ -67,6 +67,12 @@ The following resources consist of free and paid resources.
 - [Amazon Connect and Amazon Lex Integration](https://catalog.us-east-1.prod.workshops.aws/workshops/638d00f5-2248-488f-b7ca-903e8b966bf8/en-US)
 - [QnABot Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/20c56f9e-9c0a-4174-a661-9f40d9f063ac/en-US)
 
+**Amazon Q SkillBUilder Courses**
+- [Amazon Q Introduction](https://explore.skillbuilder.aws/learn/courses/19315/amazon-q-introduction)
+- [Amazon Q Developer getting started](https://explore.skillbuilder.aws/learn/courses/19491/amazon-q-developer-getting-started)
+- [Generative BI with Amazon Q in Quicksight - Getting Started](https://explore.skillbuilder.aws/learn/courses/19490/generative-bi-with-amazon-q-in-quicksight-getting-started)
+- [Amazon Q Business Getting Started](https://explore.skillbuilder.aws/learn/courses/19320/amazon-q-business-getting-started)
+
 **Youtube Videos**
 
 - [What is Amazon Connect](https://www.youtube.com/watch?v=syF1CEiWAto)
