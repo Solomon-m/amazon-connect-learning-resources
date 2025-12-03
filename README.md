@@ -31,6 +31,7 @@ The following resources consist of free and paid resources.
 - [Amazon Connect Communications Specialist Learning & Badge Plan](https://explore.skillbuilder.aws/learn/public/learning_plan/view/2262/amazon-connect-communications-specialist-learning-badge-plan) - ⭐🎖️ Certification
 - [Amazon Connect Developer Learning & Badge Plan](https://explore.skillbuilder.aws/learn/public/learning_plan/view/2318/amazon-connect-developer-learning-plan) - ⭐🎖️ Certification
 - [Serverless Learning & Badge Plan](https://explore.skillbuilder.aws/learn/learning_plan/view/92/serverless-learning-plan-earn-a-learning-badge) - ⭐🎖️
+- [Amazon Connect Certifications ](https://skillbuilder.aws/category/domain/contact-center?page=1&category=learning_plan) ⭐⭐⭐🎖️ Certification
 
 **AWS Workshops**
 
