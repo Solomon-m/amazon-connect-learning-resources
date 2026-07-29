@@ -1,11 +1,12 @@
 # Amazon Connect Learning Resources
+
 A curated list of resources to learn Amazon Connect and build a cloud contact center application with Amazon Connect.
-The following resources consist of free and paid resources. 
+The following resources consist of free and paid resources.
 
 **Official Connect Docs**
 
-- [Connect Administrator Guide](https://docs.aws.amazon.com/connect/latest/adminguide/what-is-amazon-connect.html) 
-- [Connect API Reference](https://reactjs.org/](https://docs.aws.amazon.com/connect/latest/APIReference/Welcome.html)) 
+- [Connect Administrator Guide](https://docs.aws.amazon.com/connect/latest/adminguide/what-is-amazon-connect.html)
+- [Connect API Reference](<https://reactjs.org/](https://docs.aws.amazon.com/connect/latest/APIReference/Welcome.html)>)
 - [Whitepapers & Guides](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all&awsf.whitepapers-global-methodology=*all&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all&whitepapers-main.q=Amazon%2BConnect&whitepapers-main.q_operator=AND)
 - [Connect AWS SDK JS V3](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/client/connect/)
 - [Connect NPM](https://www.npmjs.com/package/@aws-sdk/client-connect)
@@ -15,17 +16,20 @@ The following resources consist of free and paid resources.
 - [Amazon-Connect-TaskJS](https://github.com/amazon-connect/amazon-connect-taskjs) for integrating Task channel in custom CCP apps.
 
 **Courses from Udemy**
+
 - [Amazon Connect Complete Training Course](https://www.udemy.com/share/106Itu3@iM7RpKFobuYW6-eDLfOgf-Ai5sHPtVVzQY5_62TbH8VKXPhyxl6J9iCus4bGzYw=/) - Amazon Connect - by Arun Nair.
 - [Building Voice apps using Amazon Alexa](https://www.udemy.com/course/building-voice-apps-using-amazon-alexa) - Amazon Lex
 - [Building Chatbots with Amazon Lex and IBM Watson](https://www.udemy.com/course/building-chatbots-with-amazon-lex-and-ibm-watson) - Amazon Lex and IBM Watson
 
 **Amazon Blog on AmazonConnect**
+
 - [AmazonConnect Official Blog](https://aws.amazon.com/blogs/training-and-certification/category/messaging/amazon-connect/)
 - [AmazonConnect What's New Feed](https://aws.amazon.com/new/?whats-new-content-all.sort-by=item.additionalFields.postDateTime&whats-new-content-all.sort-order=desc&awsf.whats-new-categories=marketing-marchitecture%23business-productivity&whats-new-content-all.q=amazon%2BConnect&whats-new-content-all.q_operator=AND)
 - [AmazonConnect Release Notes](https://docs.aws.amazon.com/connect/latest/adminguide/amazon-connect-release-notes.html)
 - [Contact Center Blog](https://aws.amazon.com/blogs/contact-center/)
 
 **AWS Skil Builder**
+
 - [Amazon Connect Learning Path](https://explore.skillbuilder.aws/learn/lp/1721/amazon-connect-learning-plan)
 - [Amazon Connect RampUp Guide](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Amazon_Connect.pdf)
 - [Amazon Connect Communications Specialist Learning & Badge Plan](https://explore.skillbuilder.aws/learn/public/learning_plan/view/2262/amazon-connect-communications-specialist-learning-badge-plan) - ⭐🎖️ Certification
@@ -35,6 +39,7 @@ The following resources consist of free and paid resources.
 
 **AWS Workshops**
 
+- [Free Amazon Connect Learning materials](https://catalog.us-east-1.prod.workshops.aws/workshops/d1f03aa4-9605-4925-aa18-e82819feb069/en-US/amazon-connect-customer-free-training-materials) ⭐⭐⭐
 - [Getting started with Amazon Connect](https://catalog.us-east-1.prod.workshops.aws/workshops/d1f03aa4-9605-4925-aa18-e82819feb069/en-US)
 - [Amazon Connect Bootcamp](https://catalog.us-east-1.prod.workshops.aws/workshops/cf45bce8-f0a0-4c0d-83e6-ae510931c091/en-US) ⭐
 - [Introduction to Amazon Connect](https://catalog.workshops.aws/amazon-connect-introduction)
@@ -62,15 +67,16 @@ The following resources consist of free and paid resources.
 - [Amazon Connect Operational Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/4c47aab3-601b-4ac9-be0f-a829f0bf3723/en-US)
 - [The Complete AWS SAM Workshop](https://catalog.workshops.aws/complete-aws-sam/en-US/module-0-getting-started)
 - [Amazon Connect Rules Engine - Workshop](https://catalog.workshops.aws/amazon-connect-rules-engine/en-US)
-- [Free Amazon Connect Learning materials](https://catalog.us-east-1.prod.workshops.aws/workshops/d1f03aa4-9605-4925-aa18-e82819feb069/en-US/amazon-connect-customer-free-training-materials)
 - [Amazon Connect Global Resiliency](https://catalog.workshops.aws/workshops/d1f2d09f-5aae-4c90-82d1-c70def1fc8bd/en-US)
 
 **Amazon Lex Workshops**
+
 - [Amazon Lex Workshops](https://catalog.us-east-1.prod.workshops.aws/workshops/94f60d43-15b7-45f4-bbbc-17889ae64ea0/en-US)
 - [Amazon Connect and Amazon Lex Integration](https://catalog.us-east-1.prod.workshops.aws/workshops/638d00f5-2248-488f-b7ca-903e8b966bf8/en-US)
 - [QnABot Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/20c56f9e-9c0a-4174-a661-9f40d9f063ac/en-US)
 
 **Amazon Q SkillBUilder Courses**
+
 - [Amazon Q Introduction](https://explore.skillbuilder.aws/learn/courses/19315/amazon-q-introduction)
 - [Amazon Q Developer getting started](https://explore.skillbuilder.aws/learn/courses/19491/amazon-q-developer-getting-started)
 - [Generative BI with Amazon Q in Quicksight - Getting Started](https://explore.skillbuilder.aws/learn/courses/19490/generative-bi-with-amazon-q-in-quicksight-getting-started)
@@ -82,7 +88,7 @@ The following resources consist of free and paid resources.
 - [Getting Started with Amazon Connect](https://www.youtube.com/watch?v=ELlAUSKJXpA&t=1s)
 - [Amazon Connect Enablement](https://www.youtube.com/watch?v=WH0__hiP-wM&list=PLhr1KZpdzukdtol4mjtv3JRSgOCJFWhO4)
 - [Generative AI for Customer Service with Amazon Connect](https://www.youtube.com/watch?v=rKp_byg5OzU)
-- [Amazon Connect Tutorials playlist](https://www.youtube.com/watch?v=kf8i3kTKq0M&list=PL4SEtvjUqihF_n-OjIsHwqqayTsAToBOx) 
+- [Amazon Connect Tutorials playlist](https://www.youtube.com/watch?v=kf8i3kTKq0M&list=PL4SEtvjUqihF_n-OjIsHwqqayTsAToBOx)
 - [Amazon Connect videos by Rajiv Coomar](https://www.youtube.com/watch?v=v2XmilafR9k&list=PLMcMSFfe-ZLiXJHecU0KKCVqEYwkOp3Xl)
 - [AWS Connect Contact Center playlist by DrVoIp](https://www.youtube.com/watch?v=W3aRIxly1ME&list=PLxHdDBntokmIM2AdwbxBOjCOLlk0ZPtzi&index=1)
 - [AWS Cloud Contact Center Introduction and Demo](https://www.youtube.com/watch?v=yKNb6db_d7c)
@@ -93,8 +99,8 @@ The following resources consist of free and paid resources.
 - [AWS Summit ANZ 2023: Super-powered customer experience using Amazon Connect](https://www.youtube.com/watch?v=WKN6eqlAVJc)
 - [AWS On Air ft Step-by-step guides for Amazon Connect agent workspace](https://www.youtube.com/watch?v=w3iC1cxouQs)
 - [Invoke Lambda Function from Amazon Connect by Passing Parameters](https://www.youtube.com/watch?v=3geZ2IyeySg)
-  
+
 **Articles**
+
 - [Perficient Blog](https://blogs.perficient.com/tag/amazon-connect/)
 - [AmazonConnect reCap 2023 by Ankur Taunk](https://www.linkedin.com/pulse/recap-amazon-connect-2023-whats-new-ankur-taunk-yzd3c/)
-  
