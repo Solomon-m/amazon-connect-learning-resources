@@ -62,6 +62,8 @@ The following resources consist of free and paid resources.
 - [Amazon Connect Operational Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/4c47aab3-601b-4ac9-be0f-a829f0bf3723/en-US)
 - [The Complete AWS SAM Workshop](https://catalog.workshops.aws/complete-aws-sam/en-US/module-0-getting-started)
 - [Amazon Connect Rules Engine - Workshop](https://catalog.workshops.aws/amazon-connect-rules-engine/en-US)
+- [Free Amazon Connect Learning materials](https://catalog.us-east-1.prod.workshops.aws/workshops/d1f03aa4-9605-4925-aa18-e82819feb069/en-US/amazon-connect-customer-free-training-materials)
+- [Amazon Connect Global Resiliency](https://catalog.workshops.aws/workshops/d1f2d09f-5aae-4c90-82d1-c70def1fc8bd/en-US)
 
 **Amazon Lex Workshops**
 - [Amazon Lex Workshops](https://catalog.us-east-1.prod.workshops.aws/workshops/94f60d43-15b7-45f4-bbbc-17889ae64ea0/en-US)
